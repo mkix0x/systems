@@ -1,0 +1,4 @@
+﻿interface IAchievementUnlockCondition
+{
+    bool CanUnlock();
+}
